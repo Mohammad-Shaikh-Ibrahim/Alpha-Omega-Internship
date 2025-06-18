@@ -1,0 +1,20 @@
+.post-div{
+    border: 0.25em solid var(--h1BackgroundColor);
+    width:50em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1em 0;
+    margin-bottom: 1.5em;
+}
+.post-div h3{
+    font-size: 1.5rem;
+}
+.post-div hr{
+    margin: 1em 0;
+    width: 95%; 
+}
+.post-div p{
+    font-size: 1.2rem;
+}

@@ -1,0 +1,15 @@
+.header-div{
+    width: 100vw;
+    height: 20vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--h1BackgroundColor);
+    color: var(--bodyBackgroundColor);
+    padding: 2em;
+    margin-bottom: 2em;
+}
+.header-div h1{
+    font-size: 2.5rem;
+}

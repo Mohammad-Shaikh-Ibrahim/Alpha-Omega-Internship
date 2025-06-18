@@ -1,0 +1,10 @@
+.buttons-menu{
+    border: 0.25em solid var(--h1BackgroundColor);
+    width: 25em;
+    padding: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+}
