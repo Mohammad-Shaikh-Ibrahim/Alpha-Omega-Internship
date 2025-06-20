@@ -1,1 +1,4 @@
-# AO-CSS-Porject
+## The Technologies We Used In This Task:
+
+#### HTML
+#### JavaScript
