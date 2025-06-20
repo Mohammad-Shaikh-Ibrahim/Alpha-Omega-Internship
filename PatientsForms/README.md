@@ -3,6 +3,7 @@
 #### React with JavaScript
 #### React Router
 #### MUI
+#### SASS / SCSS
 #### React Hook Form
 #### Formik
 #### Yup
